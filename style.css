@@ -6,7 +6,7 @@ button{
     color: rgb(241, 251, 251);
     padding: 5px;
      margin: 10px;
-    border-radius: 3px;
+    border-radius: 7px;
     border: none;
     font-weight: bold;
     
@@ -17,7 +17,7 @@ input{
     margin: 10px;
     width: 80%;
     padding: 5px;
-    border-radius: 5px;
+    border-radius: 7px;
 
 }
 #box{
@@ -25,21 +25,21 @@ input{
     align-items: center;
     justify-content: center;
     
-    width: 80%;
-    height: 100px;
+    width: 100%;
+    
     background-color: aquamarine;
 
 }
- #result{
-    
-    width: 80%;
-    height: auto;
+ h1{
+   box-shadow: 8px 8px 5px lightblue;
  }
  .font{background-color: aquamarine;
         border: 2px solid black;  
         font-weight: bold;
         font-size: 20px;
         box-shadow: 2px white 2px green 3px;
+        text-align: center;
+    
 }
 #one{font-family: "Lobster", sans-serif;}
 #two{font-family:"Bebas Neue", sans-serif; }
