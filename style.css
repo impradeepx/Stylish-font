@@ -1,0 +1,56 @@
+
+
+
+button{
+    background-color: rgb(7, 28, 136);
+    color: rgb(241, 251, 251);
+    padding: 5px;
+     margin: 10px;
+    border-radius: 3px;
+    border: none;
+    font-weight: bold;
+    
+    
+}
+button:hover{background-color: blue;}
+input{
+    margin: 10px;
+    width: 80%;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+#box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 80%;
+    height: 100px;
+    background-color: aquamarine;
+
+}
+ #result{
+    
+    width: 80%;
+    height: auto;
+ }
+ .font{background-color: aquamarine;
+        border: 2px solid black;  
+        font-weight: bold;
+        font-size: 20px;
+        box-shadow: 2px white 2px green 3px;
+}
+#one{font-family: "Lobster", sans-serif;}
+#two{font-family:"Bebas Neue", sans-serif; }
+#three{font-family:"Roboto Slab", serif; }
+#four{font-family:"Ballet", cursive; }
+#five{font-family:"Merienda", cursive; }
+#six{font-family: "Dancing Script", cursive; }
+#seven{font-family:"Bungee Spice", sans-serif; }
+#eight{font-family: "Tac One", sans-serif; }
+#nine{font-family: "Reddit Mono", monospace;}
+#ten{font-family:"Oswald", sans-serif;}
+
+
+  
